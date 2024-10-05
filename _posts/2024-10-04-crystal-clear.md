@@ -40,20 +40,39 @@ I had liked the effect, feel free to join discord and let me know if you will be
 <iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/eZVIe0Nvj5Y" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<div class="w3-content" style="max-width:800px">
-  <img class="mySlides" src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
-  <img class="mySlides" src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
-  <img class="mySlides" src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
-</div>
+<!-- Slideshow container -->
+<div class="slideshow-container">
 
-<div class="w3-center">
-  <div class="w3-section">
-    <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
-    <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
+    <div class="text">Caption Text</div>
   </div>
-  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
-  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
-  <button class="w3-button demo" onclick="currentDiv(3)">3</button> 
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="assets/images/crystal-clear/pic2.jpg" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="assets/images/crystal-clear/pic3.jpg" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
 ✦ colour rows list ✦
@@ -68,31 +87,3 @@ I had liked the effect, feel free to join discord and let me know if you will be
 
 *Digital item provided "as is", means you agree that you are happy with it as provided, please no refunds!*
 
-<script>
-    var slideIndex = 1;
-    showDivs(slideIndex);
-    
-    function plusDivs(n) {
-      showDivs(slideIndex += n);
-    }
-    
-    function currentDiv(n) {
-      showDivs(slideIndex = n);
-    }
-    
-    function showDivs(n) {
-      var i;
-      var x = document.getElementsByClassName("mySlides");
-      var dots = document.getElementsByClassName("demo");
-      if (n > x.length) {slideIndex = 1}    
-      if (n < 1) {slideIndex = x.length}
-      for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-      }
-      for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" w3-red", "");
-      }
-      x[slideIndex-1].style.display = "block";  
-      dots[slideIndex-1].className += " w3-red";
-    }
-    </script>
