@@ -26,6 +26,7 @@ I had liked the effect, feel free to join discord and let me know if you will be
 - 3 parts toggles
 - Optional VFX
 
+<p><img src="assets/images/crystal-clear/cover.jpg" alt="Test Image" /></p>
 <p><img src="assets/images/crystal-clear/pic1.jpg" alt="Test Image" /></p>
 <p><img src="assets/images/crystal-clear/pic2.jpg" alt="Test Image" /></p>
 <p><img src="assets/images/crystal-clear/pic3.jpg" alt="Test Image" /></p>
