@@ -41,7 +41,7 @@ I had liked the effect, feel free to join discord and let me know if you will be
 <iframe width="720" height="405" src="https://www.youtube.com/embed/eZVIe0Nvj5Y" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <!-- Slideshow container -->
-<div class="slideshow-container">
+<div class="slideshow-containerImgCarousel">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlidesImgCarousel fadeImgCarousel">
