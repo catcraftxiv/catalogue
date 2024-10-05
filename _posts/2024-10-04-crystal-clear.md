@@ -116,17 +116,6 @@ img {vertical-align: middle;}
   background-color: #717171;
 }
 
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
@@ -137,19 +126,19 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides">
   <div class="numbertext">1 / 3</div>
   <img src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides">
   <div class="numbertext">2 / 3</div>
   <img src="assets/images/crystal-clear/pic2.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides">
   <div class="numbertext">3 / 3</div>
   <img src="assets/images/crystal-clear/pic3.jpg" style="width:100%">
   <div class="text">Caption Three</div>
