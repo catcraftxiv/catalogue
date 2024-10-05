@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /catalogue/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Catcraft!
+description: making ffixv mods
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -22,15 +22,15 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: catcraftxiv # replace by your username
+facebook: # replace by your username
 
 # Disqus
 disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
