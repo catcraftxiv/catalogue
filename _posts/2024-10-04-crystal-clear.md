@@ -41,17 +41,13 @@ I had liked the effect, feel free to join discord and let me know if you will be
 
 ✦ colour rows list ✦
 
-16A - horns
+- 16A - horns
+- 15A - roses
+- 14A - chains
 
-15A - roses
-
-14A - chains
-
-Horns does clip with default miqote ears
-
-Horns does clip with default au ra horns
-
-Roses does clip in miqote and hrothgar ears, and into viera floppy ears
+- Horns does clip with default miqote ears
+- Horns does clip with default au ra horns
+- Roses does clip in miqote and hrothgar ears, and into viera floppy ears
 
 ──────────────────────── • ✤ • ────────────────────────
 
