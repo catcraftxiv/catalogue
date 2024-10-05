@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/waves.jpg'
 navigation: True
 title: Crystal Clear
-date: 2024/10/05 21:46:00
+date: 2024-10-05 21:46:00
 tags: accessory
 class: post-template
 subclass: 'post'
