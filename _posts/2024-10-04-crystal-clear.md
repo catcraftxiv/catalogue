@@ -40,31 +40,20 @@ I had liked the effect, feel free to join discord and let me know if you will be
 <iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/eZVIe0Nvj5Y" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/images/crystal-clear/pic1.jpg" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/crystal-clear/pic2.jpg" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/crystal-clear/pic3.jpg" alt="Third slide">
-    </div>
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
+  <img class="mySlides" src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
+  <img class="mySlides" src="assets/images/crystal-clear/pic1.jpg" style="width:100%">
+</div>
+
+<div class="w3-center">
+  <div class="w3-section">
+    <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
+    <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+  <button class="w3-button demo" onclick="currentDiv(3)">3</button> 
 </div>
 
 ✦ colour rows list ✦
