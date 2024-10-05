@@ -1,3 +1,13 @@
+pillow:
+  username: pillow
+  name: pillow
+  url_full: https://catcraftxiv.github.io/web/
+  url: catcraftxiv.github.io/web/
+  bio: The professional publishing platform
+  picture: assets/images/ghost.png
+  facebook: 
+  twitter: catcraftxiv
+  cover: False
 ghost:
   username: ghost
   name: Ghost
