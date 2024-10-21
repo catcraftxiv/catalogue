@@ -13,7 +13,7 @@ author: evie
 
 Short and tight dress
 
-Main picture by [Idis](https://x.com/idisxiv)
+*Main picture by [Idis](https://x.com/idisxiv)*
 
 ### INCLUDED IN 10 USD TIER
 
