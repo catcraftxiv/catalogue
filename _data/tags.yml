@@ -3,7 +3,7 @@ clothes:
   description: Outfits and other stuff
   cover: assets/images/dream-dress/cover.jpg
 accessory:
-  name: accessories
+  name: accessory
   description: Nice things
   cover: assets/images/crystal-clear/nyx2.jpg
 
