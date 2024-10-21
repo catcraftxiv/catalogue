@@ -5,7 +5,7 @@ cover: assets/images/pastel-mood/cover.jpg
 navigation: True
 title: Pastel Mood
 date: 2024-10-14 10:00:00
-tags: clothes
+tags: clothes, subscription
 class: post-template
 subclass: 'post'
 author: pillow
