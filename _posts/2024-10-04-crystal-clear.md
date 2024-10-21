@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/crystal-clear/cover.jpg
+cover: https://catcraftxiv.github.io/web/assets/img/gallery/bafkreiakenhtmp4g5jhk2opbu72c3rihcvuifljkd3vmd7ulu3wnq6zp4u.jpg
 navigation: True
 title: Crystal Clear
 date: 2024-10-04 10:00:00
