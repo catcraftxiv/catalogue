@@ -26,7 +26,8 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 I had liked the effect, feel free to join discord and let me know if you will be interested in more things in same style!
 
-<img src="assets/images/crystal-clear/cover.jpg"/>
+Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for extra previews!
+
 <img src="assets/images/crystal-clear/pic1.jpg"/>
 <img src="assets/images/crystal-clear/pic2.jpg"/>
 <img src="assets/images/crystal-clear/pic3.jpg"/>
