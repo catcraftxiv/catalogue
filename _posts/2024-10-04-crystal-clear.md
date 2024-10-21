@@ -13,7 +13,7 @@ author: pillow
 
 Crystal horns with chains and huge roses!
 
-### 5.99 USD
+### PRICE: 5.99 USD
 
 > See mod page at [patreon](https://www.patreon.com/catcraftFFXIV/shop/crystal-clear-horns-516913?source=storefront) or [hipolink](https://hipolink.me/pomigrein/products/crystal-clear--horns)
 
