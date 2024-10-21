@@ -1927,3 +1927,9 @@ Usage (In Ghost editor):
         margin-left: 0;
     }
 }
+
+/* details summary*/
+
+details {
+width: 100%;
+}
