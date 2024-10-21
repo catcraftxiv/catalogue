@@ -5,7 +5,7 @@ cover: assets/images/dream-dress/cover.jpg
 navigation: True
 title: Dream Dress
 date: 2024-08-28 10:00:00
-tags: clothes
+tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: evie
