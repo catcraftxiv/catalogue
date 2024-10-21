@@ -5,7 +5,7 @@ cover: assets/images/crystal-clear/nyx2.jpg
 navigation: True
 title: Crystal Clear
 date: 2024-10-04 10:00:00
-tags: accessory
+tags: accessory shop
 class: post-template
 subclass: 'post'
 author: pillow
