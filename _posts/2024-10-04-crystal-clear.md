@@ -13,7 +13,7 @@ author: pillow
 
 Crystal horns with chains and huge roses!
 
-Main picture by [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6xowjah2f2h)
+*Main picture by [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6xowjah2f2h)*
 
 ### PRICE: 5.99 USD
 
