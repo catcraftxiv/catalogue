@@ -15,7 +15,7 @@ Crystal horns with chains and huge roses!
 
 > See mod page at [patreon](https://www.patreon.com/catcraftFFXIV/shop/crystal-clear-horns-516913?source=storefront) or [hipolink](https://hipolink.me/pomigrein/products/crystal-clear--horns)
 
-*5.99 USD*
+5.99 USD
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I would be very glad to see your screenshots!
 
