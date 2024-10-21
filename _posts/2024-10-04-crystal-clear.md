@@ -17,15 +17,6 @@ See mod page at [patreon](https://www.patreon.com/catcraftFFXIV/shop/crystal-cle
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I would be very glad to see your screenshots!
 
-- Replaces: Heirloom Circlet of Fending
-- For every race and gender
-- Dyeable
-- 10 customizeable options
-- 3 parts toggles
-- Optional VFX
-
-I had liked the effect, feel free to join discord and let me know if you will be interested in more things in same style!
-
 Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for extra previews!
 
 <img src="assets/images/crystal-clear/pic1.jpg"/>
