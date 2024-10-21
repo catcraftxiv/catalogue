@@ -1,12 +1,22 @@
 pillow:
   username: pillow
   name: pillow
-  url_full: https://catcraftxiv.github.io/web/
-  url: catcraftxiv.github.io/web/
-  bio: The professional publishing platform
+  url_full: False
+  url: False
+  bio: really silly
+  picture: assets/images/pillow.png
+  facebook: False
+  twitter: False
+  cover: False
+Evie:
+  username: evilieda
+  name: Evie
+  url_full: False
+  url: False
+  bio: 3D Artist
   picture: assets/images/ghost.png
-  facebook: 
-  twitter: catcraftxiv
+  facebook: False
+  twitter: False
   cover: False
 ghost:
   username: ghost

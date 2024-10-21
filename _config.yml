@@ -10,7 +10,7 @@ baseurl: /catalogue/
 
 # Website info
 title: Catcraft!
-description: making FFXIV mods
+description: creating FFXIV mods
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
