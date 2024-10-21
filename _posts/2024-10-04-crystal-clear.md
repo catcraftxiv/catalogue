@@ -19,10 +19,10 @@ Crystal horns with chains and huge roses!
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I would be very glad to see your screenshots!
 
-<p><details>
+<details>
   <summary>Video preview</summary>
   <iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</details></p>
+</details>
 
 Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for extra previews!
 
