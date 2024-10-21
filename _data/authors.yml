@@ -8,8 +8,8 @@ pillow:
   facebook: False
   twitter: False
   cover: False
-Evie:
-  username: evilieda
+evie:
+  username: evie
   name: Evie
   url_full: False
   url: False
