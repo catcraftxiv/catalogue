@@ -1,37 +1,17 @@
-lname: Build and deploy to GitHub Pages
+name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches: [ master ]
   pull_request:
-    branches: [master]
+    branches: [ master ]
 
 jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "2.7" # Specify the Ruby version here
-          bundler-cache: true # Automatically cache and install gems
-      - name: Update RubyGems
-        run: |
-          gem update --system 3.3.22
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: "gh-pages"
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: github-pages
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          target_branch: 'gh-pages'
