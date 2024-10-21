@@ -18,6 +18,9 @@ Evie:
   facebook: False
   twitter: False
   cover: False
+
+# default authors
+
 ghost:
   username: ghost
   name: Ghost
