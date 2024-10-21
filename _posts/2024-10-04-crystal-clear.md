@@ -13,7 +13,7 @@ author: pillow
 
 Crystal horns with chains and huge roses!
 
-There are 3 options for reflections look (smooth, gradient and sharp), 4 transculency levels, 3 rim light options, optional VFX and possibility to hide roses, chains and horns separately :>
+See mod page at [patreon](https://www.patreon.com/catcraftFFXIV/shop/crystal-clear-horns-516913?source=storefront) or [hipolink](https://hipolink.me/pomigrein/products/crystal-clear--horns)
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I would be very glad to see your screenshots!
 
