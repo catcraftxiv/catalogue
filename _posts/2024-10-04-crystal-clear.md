@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/crystal-clear/nyx1.jpg
+cover: assets/images/crystal-clear/nyx2.jpg
 navigation: True
 title: Crystal Clear
 date: 2024-10-04 10:00:00
