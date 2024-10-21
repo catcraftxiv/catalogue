@@ -37,7 +37,7 @@ I had liked the effect, feel free to join discord and let me know if you will be
 <img src="assets/images/crystal-clear/pic7.jpg" alt="Test Image" />
 <img src="assets/images/crystal-clear/pic8.jpg" alt="Test Image" />
 <img src="assets/images/crystal-clear/pic9.jpg" alt="Test Image" />
-<iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="1040px" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/eZVIe0Nvj5Y" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <style>
