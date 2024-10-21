@@ -26,17 +26,17 @@ Feel free to post your screenshots with [#catcraftxiv hashtag on twitter](https:
 
 I had liked the effect, feel free to join discord and let me know if you will be interested in more things in same style!
 
-<p><img src="assets/images/crystal-clear/cover.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic1.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic2.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic3.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic4.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic5.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic5-1.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic6.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic7.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic8.jpg" alt="Test Image" /></p>
-<p><img src="assets/images/crystal-clear/pic9.jpg" alt="Test Image" /></p>
+<img src="assets/images/crystal-clear/cover.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic1.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic2.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic3.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic4.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic5.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic5-1.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic6.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic7.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic8.jpg" alt="Test Image" />
+<img src="assets/images/crystal-clear/pic9.jpg" alt="Test Image" />
 <iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/eZVIe0Nvj5Y" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
