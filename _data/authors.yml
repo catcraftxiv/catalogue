@@ -7,7 +7,7 @@ pillow:
   picture: assets/images/pillow.png
   facebook: False
   twitter: False
-  cover: False
+  cover: assets/images/pillow-banner.jpg
 evie:
   username: evie
   name: Evie
