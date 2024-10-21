@@ -41,7 +41,7 @@
                     {% endif %}
                 {% endfor %}
                 <span class="reading-time">
-                    {{ post.date | date:'%e %B %Y' }}
+                    {{ page.next.date | date:'%e %B %Y' }}
                     <!--
                     {% assign words = page.next.content | strip_html | number_of_words %}
                     {% if words <= words_per_minute %}
