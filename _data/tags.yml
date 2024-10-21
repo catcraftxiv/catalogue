@@ -1,3 +1,14 @@
+clothes:
+  name: clothes
+  description: Outfits and other stuff
+  cover: False
+accessory:
+  name: accessories
+  description: Nice things
+  cover: False
+
+# default tags
+
 speeches:
   name: speeches
   description: Some of the greatest words ever spoken.
