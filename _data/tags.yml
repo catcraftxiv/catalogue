@@ -1,11 +1,11 @@
 clothes:
   name: clothes
   description: Outfits and other stuff
-  cover: False
+  cover: assets/images/dream-dress/cover.jpg
 accessory:
   name: accessories
   description: Nice things
-  cover: False
+  cover: assets/images/crystal-clear/nyx2.jpg
 
 # default tags
 
