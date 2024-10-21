@@ -46,17 +46,7 @@ Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for extra previe
 <img src="assets/images/crystal-clear/nyx6.jpg"/>
 <img src="assets/images/crystal-clear/nyx7.jpg"/>
 <img src="assets/images/crystal-clear/nyx8.jpg"/>
+
+See video preview here:
+
 <iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-✦ colour rows list ✦
-
-- 16A - horns
-- 15A - roses
-- 14A - chains
-
-- Horns does clip with default miqote ears
-- Horns does clip with default au ra horns
-- Roses does clip in miqote and hrothgar ears, and into viera floppy ears
-
-*Digital item provided "as is", means you agree that you are happy with it as provided, please no refunds!*
-
