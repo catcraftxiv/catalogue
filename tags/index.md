@@ -9,5 +9,5 @@ subclass: 'post page'
 ---
 
 {% for tag in site.data.tags %}
-- <a href="{{ site.baseurl }}tag/{{ tag.name }}">{{ tag.name }}</a>
+<li><a href="{{ site.baseurl }}tag/{{ tag.name }}">{{ tag.name }}</a></li>
 {% endfor %}
