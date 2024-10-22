@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/pastel-mood/cover.jpg
+cover: assets/images/pastel-mood/cover_new.jpg
 navigation: True
 title: Pastel Mood
 date: 2024-10-14 10:00:00
@@ -28,4 +28,5 @@ Thank you [Saki](https://x.com/PhotosmithSaki) for beautiful previews!
 <img src="assets/images/pastel-mood/pic4.jpg"/>
 <img src="assets/images/pastel-mood/pic3.jpg"/>
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-10-15_15-07-40-676_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
-<img src="https://catcraftxiv.github.io/web/assets/img/gallery/image.jpg title="image by Saki"/>
+<img src="https://catcraftxiv.github.io/web/assets/img/gallery/image.jpg" title="image by Saki"/>
+<img src="assets/images/pastel-mood/cover_new.jpg"/>
