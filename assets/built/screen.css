@@ -22,3 +22,28 @@ details {
   letter-spacing:.5px;
   text-transform:uppercase
 }
+
+/* text on image hover */
+/* (A) RESPONSIVE IMAGE */
+.himg { width: 100%; }
+/*.hwrap { max-width: 500px; } /* optional */
+ 
+/* (B) POSITION CAPTION */
+.hwrap { position: relative; }
+.hcap {
+  /* (B1) PLACE AT BOTTOM */
+  position: absolute; bottom: 0; left: 0;
+ 
+  /* (B2) DIMENSIONS + COLORS */
+  width: 100%; padding: 10px;
+  color: #fff; background: rgba(0, 0, 0, 0.5);
+}
+
+/* (C) ONLY SHOW CAPTION ON HOVER */
+.hcap {
+  visibility: none; opacity: 0;
+  transition: opacity 0.3s;
+}
+.hwrap:hover .hcap{
+  visibility: visible; opacity: 1;
+}
