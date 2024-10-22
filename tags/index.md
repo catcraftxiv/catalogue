@@ -10,9 +10,9 @@ subclass: 'post page'
 
 ## Collections:
 
-- [subscription]({{ site.baseurl }}tag/subscription)
+### [subscription]({{ site.baseurl }}tag/subscription)
 Monthly rewards for patreon/boosty 
-- [shop]({{ site.baseurl }}tag/shop)
+### [shop]({{ site.baseurl }}tag/shop)
 Mods that can be bought in shop
 
 ## Tags:
