@@ -1,0 +1,28 @@
+---
+layout: post
+current: post
+cover: assets/images/tight-and-short/cover.jpg
+navigation: True
+title: Tight and Short
+date: 2023-05-16 10:00:00 +0300
+tags: clothes subscription
+class: post-template
+subclass: 'post'
+author: pillow
+---
+
+Short dress with cropped cardigan
+
+*Main picture by [Idis](https://x.com/idisxiv)*
+
+### INCLUDED IN 10 USD TIER
+
+> Get the mod at [patreon](https://www.patreon.com/posts/tight-short-may-104384791?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link) or [boosty](https://boosty.to/miaumori/posts/7094a046-5bf5-42f2-8131-e97c8dccd30e?share=post_link)
+
+Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I will be very glad to include these!!
+
+Thank you [Idis](https://x.com/idisxiv) for marvelous picture!
+
+<img src="https://catcraftxiv.github.io/web/assets/img/gallery/ffxiv-dx11-2024-05-16-18-22-15_c.jpg"/>
+<img src="https://catcraftxiv.github.io/web/assets/img/gallery/GU4ScdOXAAIC-27.jpg"/>
+<img src="assets/images/tight-and-short/cover.jpg"/>
