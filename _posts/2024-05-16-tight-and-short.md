@@ -26,7 +26,7 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
   <iframe src="https://www.youtube.com/embed/V2YsVmyHrE0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </details>
 
-Thank you [Idis](https://x.com/idisxiv) for marvelous picture!
+Thank you [Idis](https://x.com/idisxiv) and [Zammy](https://x.com/Emblem13235) for marvelous pictures!
 
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/ffxiv-dx11-2024-05-16-18-22-15_c.jpg"/>
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/GU4ScdOXAAIC-27.jpg"/>
