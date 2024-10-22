@@ -8,8 +8,8 @@ class: page-template
 subclass: 'post page'
 ---
 
-Catcraft is consist of [pillow]({{ site.baseurl }}author/pillow/) and [Evie](({{ site.baseurl }}author/evie/)) ^-^ If you need something, please do write **pillow39** at discord :>
+Catcraft is consist of [pillow]({{ site.baseurl }}author/pillow/) and [Evie]({{ site.baseurl }}author/evie/) ^-^ If you need something, please do write **pillow39** at discord :>
 
-This website is made to preview paid mods in one place! To see free mods in one place, please see [XIV Mod Archive profile](https://www.xivmodarchive.com/user/111283) :>
+This website is made to preview paid mods in one place! To see free mods in one place, please see <a href="https://www.xivmodarchive.com/user/111283" target="_blank">XIV Mod Archive profile</a> :>
 
-[See mod rules here!](https://catcraftxiv.github.io/web/rules)
+<a href="https://catcraftxiv.github.io/web/rules" target="_blank">See mod rules here!</a>
