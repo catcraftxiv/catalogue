@@ -23,5 +23,6 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you [S'cylle](https://www.instagram.com/scyllecirhe.ffxiv/) for more previews!
 
-<img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-10-48_Nacht_Pyretic (1).jpg"/>
-<img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-12-16_Nacht_Pyretic (1).jpg"/>
+<img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-10-48_Nacht_Pyretic (1).jpg" title="image by S'cylle"/>
+<img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-12-16_Nacht_Pyretic (1).jpg"title="image by S'cylle"/>
+<img src="assets/images/dream-dress/cover.jpg"title="image by Idis"/>
