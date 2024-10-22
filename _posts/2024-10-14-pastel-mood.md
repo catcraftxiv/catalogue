@@ -24,7 +24,7 @@ Thank you [Saki](https://x.com/PhotosmithSaki) for beautiful previews!
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-10-16_20-27-19-534_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
 <img src="assets/images/pastel-mood/pic2.jpg"/>
 <img src="assets/images/pastel-mood/pic1.jpg"/>
-<img src="https://catcraftxiv.github.io/web/assets/img/gallery/ffxiv_dx11 2024-10-14 19-50-20 Maya Adorable Gameplay.jpg"/>
+<img src="assets/images/pastel-mood/pic5.jpg"/>
 <img src="assets/images/pastel-mood/pic4.jpg"/>
 <img src="assets/images/pastel-mood/pic3.jpg"/>
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-10-15_15-07-40-676_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>

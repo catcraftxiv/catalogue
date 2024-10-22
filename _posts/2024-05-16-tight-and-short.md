@@ -36,6 +36,6 @@ Thank you [Idis](https://x.com/idisxiv) and [Zammy](https://x.com/Emblem13235) f
 <img src="assets/images/tight-and-short/pic3.jpg"/>
 <img src="assets/images/tight-and-short/pic4.jpg"/>
 <img src="assets/images/tight-and-short/pic5.jpg"/>
-<img src="https://catcraftxiv.github.io/web/assets/img/gallery/Zamira561 (1)_c.jpg" title="image by Zammy"/>
+<img src="assets/images/tight-and-short/Zamira561.jpg" title="image by Zammy"/>
 <img src="assets/images/tight-and-short/pic6.jpg"/>
 <img src="assets/images/tight-and-short/pic7.jpg"/>
