@@ -21,8 +21,8 @@ Short and tight dress
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I would love to see these <3
 
-Thank you [S'cylle](https://www.instagram.com/scyllecirhe.ffxiv/) for more previews!
+Thank you [S'cylle](https://www.instagram.com/scyllecirhe.ffxiv/) and [Idis](https://x.com/idisxiv) for more previews!
 
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-10-48_Nacht_Pyretic (1).jpg" title="image by S'cylle"/>
-<img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-12-16_Nacht_Pyretic (1).jpg"title="image by S'cylle"/>
-<img src="assets/images/dream-dress/cover.jpg"title="image by Idis"/>
+<img src="https://catcraftxiv.github.io/web/assets/img/gallery/2024-08-28_11-12-16_Nacht_Pyretic (1).jpg" title="image by S'cylle"/>
+<img src="assets/images/dream-dress/cover.jpg" title="image by Idis"/>
