@@ -51,3 +51,7 @@ details {
 .nav {
 	font-size: larger;
 }
+
+.social-link svg {
+	height: 2.8rem;
+}
