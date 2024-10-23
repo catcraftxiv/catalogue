@@ -25,6 +25,6 @@ Thank you [Saki](https://x.com/PhotosmithSaki) for marvelous picture!
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/de43e729_original.jpg" title="image by Saki"/>
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/ffxiv-dx11-2023-07-26-15-58-03_c.jpg"/>
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/ffxiv-dx11-2023-07-26-16-01-14_c.jpg"/>
-<img src="assets/images/vigilant-sheepness/ffxiv_dx11_2023-07-26_17-01-38.jpg"/>
-<img src="assets/images/vigilant-sheepness/ffxiv_dx11_2023-07-26_16-48-04.jpg"/>
-<img src="assets/images/vigilant-sheepness/ffxiv_dx11_2023-07-26_16-56-06.jpg"/>
+<img src="/assets/images/vigilant-sheepness/ffxiv_dx11_2023-07-26_17-01-38.jpg"/>
+<img src="/assets/images/vigilant-sheepness/ffxiv_dx11_2023-07-26_16-48-04.jpg"/>
+<img src="/assets/images/vigilant-sheepness/ffxiv_dx11_2023-07-26_16-56-06.jpg"/>
