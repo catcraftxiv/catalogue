@@ -183,7 +183,7 @@
   isBigImage:
   profile: https://x.com/catcraftxiv
 
-- link: assets/images/edwardia/2024-08-06_21-17-56-529_Sakis_Night_Equalizer.jpg
+- link: /assets/images/edwardia/2024-08-06_21-17-56-529_Sakis_Night_Equalizer.jpg
   name: Saki
   isBigImage: true
   profile: https://x.com/PhotosmithSaki/status/1820799147341156387
@@ -218,7 +218,7 @@
   isBigImage:
   profile: https://x.com/idisxiv/
 
-- link: assets/images/edwardia/ffxiv_dx11_2024-08-27_23-19-41.jpg
+- link: /assets/images/edwardia/ffxiv_dx11_2024-08-27_23-19-41.jpg
   name: Idis
   isBigImage: true
   profile: https://x.com/idisxiv/
