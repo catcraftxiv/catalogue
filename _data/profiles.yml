@@ -48,7 +48,7 @@
   frontpage:
 
 - name: Website
-  link: https://catcraftxiv.github.io/web/
+  link: {{ site.baseurl }}
   frontpage:
 
 - name: Evie boosty
