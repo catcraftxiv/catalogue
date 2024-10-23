@@ -342,3 +342,23 @@
   name: Nyx
   isBigImage:
   profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6nu4nciuy2e
+
+- link: /assets/images/eclipse/ellie1.jpg
+  name: Ellie
+  isBigImage: true
+  profile: https://x.com/Ellieffxiv
+
+- link: /assets/images/eclipse/cover.jpg
+  name: Catcraft
+  isBigImage:
+  profile: /
+
+- link: /assets/images/edwardia/cover.jpg
+  name: Catcraft
+  isBigImage:
+  profile: /
+
+- link: /assets/images/pastel-mood/cover_new.jpg
+  name: Catcraft
+  isBigImage:
+  profile: /
