@@ -113,10 +113,10 @@
   isBigImage:
   profile: https://twitter.com/catcraftxiv/
 
-- link: /web/assets/img/gallery/GONLJBvaEAA5dsU-orig_c.jpg
-  name: Catcraft
-  isBigImage:
-  profile: https://twitter.com/catcraftxiv/
+#- link: /web/assets/img/gallery/GONLJBvaEAA5dsU-orig_c.jpg
+#  name: Catcraft
+#  isBigImage:
+#  profile: https://twitter.com/catcraftxiv/
 
 - link: /web/assets/img/gallery/GP5BpqGXwAAomwj-orig_c.jpg
   name: Ellie
