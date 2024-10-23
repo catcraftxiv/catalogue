@@ -9,6 +9,7 @@ tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: pillow
+permalink: catalogue/:title
 ---
 
 Short dress with cropped cardigan

@@ -9,6 +9,7 @@ tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: pillow
+permalink: catalogue/:title
 ---
 
 Cute one-piece outfit consist of shirt and skirt

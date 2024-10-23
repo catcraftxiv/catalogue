@@ -9,6 +9,7 @@ tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: evie
+permalink: catalogue/:title
 ---
 
 Short and tight dress
