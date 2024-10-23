@@ -14,7 +14,7 @@ subclass: 'post page'
 Monthly rewards for patreon/boosty. When you are subscribed, you have access to all of these :>
 ###### [shop]({{ site.baseurl }}tag/shop)
 Mods that only can be bought in shop
-###### <a href="https://www.xivmodarchive.com/user/111283" target="_blank">Free</a>
+###### <a href="https://www.xivmodarchive.com/user/111283" target="_blank">free</a>
 Free mods, gathered on XIV Mod Archive page
 
 ## Tags:
