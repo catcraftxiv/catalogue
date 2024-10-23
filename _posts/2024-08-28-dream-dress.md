@@ -24,6 +24,6 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you [S'cylle](https://www.instagram.com/scyllecirhe.ffxiv/) and [Idis](https://x.com/idisxiv) for more previews!
 
-<img src="assets/images/dream-dress/pic1.jpg" title="image by S'cylle"/>
-<img src="assets/images/dream-dress/pic2.jpg" title="image by S'cylle"/>
-<img src="assets/images/dream-dress/cover.jpg" title="image by Idis"/>
+<img src="/assets/images/dream-dress/pic1.jpg" title="image by S'cylle"/>
+<img src="/assets/images/dream-dress/pic2.jpg" title="image by S'cylle"/>
+<img src="/assets/images/dream-dress/cover.jpg" title="image by Idis"/>
