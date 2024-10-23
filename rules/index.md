@@ -24,4 +24,4 @@ I can't include every single case into cool-looking list, so please if you not s
 
 Feel free to use #modding-help channel on our <a href="https://discord.gg/yPbUXazxQ3" target="_blank">Discord server</a> :> I will be glad to help you with anything i know!
 
-[About Catcraft]({{ site.baseurl }}/about)
+<a href="{{ site.baseurl }}/about/">About Catcraft</a>
