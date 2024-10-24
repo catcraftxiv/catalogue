@@ -4,7 +4,7 @@ current: post
 cover: assets/images/tight-and-short/cover.jpg
 navigation: True
 title: Tight and Short
-date: 2023-05-16 10:00:00 +0300
+date: 2024-05-16 10:00:00 +0300
 tags: clothes subscription
 class: post-template
 subclass: 'post'
