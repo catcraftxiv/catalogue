@@ -20,5 +20,5 @@ DRK weapon with glowing rune
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-<img src="/assets/images/gothic-greatsword/cover.jpg"/>
 <img src="/assets/images/gothic-greatsword/ffxiv_dx11 2024-10-24 02-59-57 Maya Adorable Gameplay.jpg"/>
+<img src="/assets/images/gothic-greatsword/cover.jpg"/>
