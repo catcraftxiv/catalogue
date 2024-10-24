@@ -5,7 +5,7 @@
 
 - name: TGD
   link: https://www.glamourdresser.com/author/catcraft
-  frontpage: true
+  frontpage:
 
 - name: Patreon
   link: https://www.patreon.com/catcraftFFXIV
@@ -13,22 +13,22 @@
 
 - name: Boosty
   link: https://boosty.to/miaumori
-  frontpage: true
+  frontpage:
 
 - name: Shop
   link: https://www.patreon.com/catcraftffxiv/shop
-  frontpage: true
+  frontpage:
 
 - name: Shop (no VAT)
   link: https://hipolink.me/pomigrein/products
+  frontpage:
+
+- name: Bsky
+  link: https://bsky.app/profile/catcraftxiv.bsky.social
   frontpage: true
 
 - name: Twitter
   link: https://x.com/catcraftxiv
-  frontpage: true
-
-- name: Bsky
-  link: https://bsky.app/profile/catcraftxiv.bsky.social
   frontpage: true
   
 - name: Discord
@@ -45,10 +45,6 @@
 
 - name: Mod Rules
   link: https://catcraftxiv.github.io/web/rules
-  frontpage:
-
-- name: Website
-  link: {{ site.baseurl }}
   frontpage:
 
 - name: Evie boosty
