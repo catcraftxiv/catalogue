@@ -6,6 +6,10 @@ accessory:
   name: accessory
   description: Nice things
   cover: assets/images/crystal-clear/nyx2.jpg
+weapon:
+  name: weapon
+  description:
+  cover: assets/images/gothic-greatsword/cover.jpg
 
 # default tags
 
