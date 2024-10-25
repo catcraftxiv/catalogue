@@ -20,5 +20,5 @@ Casual pants and crop top
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-<img src="/assets/images/{{ page.title | downcase }}/cover.jpg"/>
+<img src="/assets/images/timeless-togs/cover.jpg"/>
 
