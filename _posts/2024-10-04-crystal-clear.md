@@ -39,6 +39,7 @@ Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for tons of prev
 <img src="/assets/images/crystal-clear/pic7.jpg"/>
 <img src="/assets/images/crystal-clear/pic8.jpg"/>
 <img src="/assets/images/crystal-clear/pic9.jpg"/>
+<img src="/assets/images/crystal-clear/tsukuyomi 3l7bgtchkrt27_p0.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx1.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx2.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx3.jpg" title="image by Nyx"/>

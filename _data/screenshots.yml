@@ -372,3 +372,13 @@
   name: Catcraft
   isBigImage:
   profile: /
+
+- link: /assets/images/crystal-clear/tsukuyomi 3l7bgtchkrt27_p0.jpg
+  name: Nyx
+  isBigImage:
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l7bgtchkrt27
+
+- link: /assets/images/august/cover.jpg
+  name: Catcraft
+  isBigImage:
+  profile: /
