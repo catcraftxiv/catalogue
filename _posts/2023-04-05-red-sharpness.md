@@ -4,7 +4,7 @@ current: post
 navigation: True
 title: Red Sharpness
 cover: assets/images/red-sharpness/cover.jpg
-date: 2023-04-95 10:00:00
+date: 2023-04-05 10:00:00
 tags: weapon subscription
 class: post-template
 subclass: 'post'
