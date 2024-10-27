@@ -22,7 +22,7 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you [Ellie](https://x.com/Ellieffxiv), [Idis](https://x.com/idisxiv) and [Saki](https://x.com/PhotosmithSaki) for more previews!
 
-<img src="/assets/images/sweetheart-sweater/image (1).jpg" title="image by Idis"/>
+<img src="/assets/images/sweetheart-sweater/48f2318ca04b4e81dfc0b46f7e6881a0ce59b148_s2_n3_y1.jpg" title="image by Idis"/>
 <img src="/assets/images/sweetheart-sweater/idisgpose16edit1.jpg" title="image by Idis"/>
 <img src="/assets/images/sweetheart-sweater/idisgpose15edit1.jpg" title="image by Idis"/>
 <img src="/assets/images/sweetheart-sweater/ffxiv_dx11_2024-09-23_16-18-58.jpg" title="image by Ellie"/>
