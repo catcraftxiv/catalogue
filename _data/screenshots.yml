@@ -392,3 +392,13 @@
   name: Catcraft
   isBigImage:
   profile: /
+
+- link: /assets/images/lovely-heart/ffxiv_dx11_2024-10-27_15-30-53.jpg
+  name: Idis
+  isBigImage: true
+  profile: https://x.com/idisxiv/
+
+- link: /assets/images/lovely-heart/cover.jpg
+  name: Catcraft
+  isBigImage:
+  profile: /
