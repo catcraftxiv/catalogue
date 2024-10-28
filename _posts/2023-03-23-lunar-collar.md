@@ -4,7 +4,7 @@ current: post
 navigation: True
 title: Lunar Collar
 cover: assets/images/lunar-collar/cover.jpg
-date: 2024-03-23 01:00:00 +0300
+date: 2023-03-23 01:00:00 +0300
 tags: accessory subscription
 class: post-template
 subclass: 'post'
