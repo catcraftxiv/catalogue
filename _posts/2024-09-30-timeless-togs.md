@@ -4,7 +4,7 @@ current: post
 navigation: True
 title: Timeless Togs
 cover: assets/images/timeless-togs/cover.jpg
-date: 2023-08-23 10:00:00
+date: 2024-08-23 10:00:00
 tags: clothes subscription
 class: post-template
 subclass: 'post'
