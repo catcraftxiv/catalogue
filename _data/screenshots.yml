@@ -113,11 +113,6 @@
   isBigImage:
   profile: https://twitter.com/catcraftxiv/
 
-#- link: /web/assets/img/gallery/GONLJBvaEAA5dsU-orig_c.jpg
-#  name: Catcraft
-#  isBigImage:
-#  profile: https://twitter.com/catcraftxiv/
-
 - link: /web/assets/img/gallery/GP5BpqGXwAAomwj-orig_c.jpg
   name: Ellie
   isBigImage: true
@@ -138,11 +133,6 @@
   isBigImage: true
   profile: https://x.com/catcraftxiv/status/1803183133820440640
 
-- link: /web/assets/img/gallery/ffxiv-dx11-2024-06-21-02-20-18_c.jpg
-  name: Ellie
-  isBigImage: true
-  profile: https://x.com/Ellieffxiv/
-
 - link: /web/assets/img/gallery/GRGIynyX0AEzCat-orig_c.jpg
   name: Ellie
   isBigImage: true
@@ -153,30 +143,10 @@
   isBigImage: 
   profile: https://x.com/catcraftxiv/status/1815702321441001641
 
-- link: /web/assets/img/gallery/GTMtKTLWEAAFRmE-orig_c.jpg
-  name: Catcraft
-  isBigImage: 
-  profile: https://x.com/catcraftxiv/status/1815844745857622374
-
-- link: /web/assets/img/gallery/GTP4He8bcAA6yaM-orig_c.jpg
-  name: Valfreyja Frostwyrm
-  isBigImage: true
-  profile: https://x.com/justwolposting/status/1816070316059480064
-
 - link: /web/assets/img/gallery/Zamira561 (1)_c.jpg
   name: Zamira
   isBigImage: true
   profile: https://x.com/Emblem13235
-
-- link: /web/assets/img/gallery/GTTJQwVaYAMOcyz-orig_c.jpg
-  name: Secret Skully
-  isBigImage: true
-  profile: https://x.com/SecretSkully/status/1816297849069658301
-
-- link: /web/assets/img/gallery/GThzBy3bsAAqMXu-orig_c.jpg
-  name: Saki
-  isBigImage: true
-  profile: https://x.com/PhotosmithSaki/status/1817329372371750939
 
 - link: /web/assets/img/gallery/ffxiv_dx11_2024-07-28_12-49-07.jpg
   name: Evie
@@ -298,11 +268,6 @@
   isBigImage: true
   profile: https://x.com/PhotosmithSaki/
 
-- link: /web/assets/img/gallery/GaAq7XxaQAAcEvj.jpg
-  name: Saki
-  isBigImage: true
-  profile: https://x.com/PhotosmithSaki/status/1847384156881506728
-
 - link: /web/assets/img/gallery/bafkreiasxhlstkjw4wjm7fb6tjorgxm54wbc3q6ul6srb3z5fcvooiq5ni.jpg
   name: Nyx
   isBigImage: true
@@ -362,11 +327,6 @@
   name: Catcraft
   isBigImage:
   profile: /
-
-- link: /assets/images/softsense/bafkreiffu7kz4rmxhkjqdui3duhuewruxkhfxyh3v3yvm3exzn3vwtwum4.jpg
-  name: Nyx
-  isBigImage: true
-  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l76kkbvxql2q
 
 - link: /assets/images/gothic-greatsword/ffxiv_dx11 2024-10-24 02-59-57 Maya Adorable Gameplay.jpg
   name: Catcraft
