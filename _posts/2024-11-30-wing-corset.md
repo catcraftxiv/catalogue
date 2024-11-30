@@ -8,7 +8,7 @@ date: 2024-11-30 20:02:00 +0300
 tags: clothes subscription
 class: post-template
 subclass: 'post'
-author: Evie
+author: evie
 permalink: catalogue/:title
 ---
 
