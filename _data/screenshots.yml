@@ -377,3 +377,13 @@
   name: Ellie
   isBigImage: true
   profile: https://x.com/Ellieffxiv
+
+- link: /assets/images/gallery/image.jpg
+  name: Kotetsu&Maya / Jing
+  isBigImage:
+  profile: https://www.instagram.com/kotetsu_ffxiv/
+
+- link: /assets/images/gallery/image1.jpg
+  name: Kotetsu&Maya / Jing
+  isBigImage:
+  profile: https://www.instagram.com/kotetsu_ffxiv/
