@@ -27,8 +27,10 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
   <iframe src="https://www.youtube.com/embed/BYw_YHksPd0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </details>
 
-Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for tons of previews!
+Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) and [E L Y N N Δ L V N S T 又](https://x.com/neongraves_) for tons of previews!
 
+<img src="/assets/images/crystal-clear/Screenshot_2024-12-10_135318.jpg" title="image by E L Y N N Δ L V N S T 又"/>
+<img src="/assets/images/crystal-clear/tsukuyomi 3l7bgtchkrt27_p0.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/pic1.jpg"/>
 <img src="/assets/images/crystal-clear/pic2.jpg"/>
 <img src="/assets/images/crystal-clear/pic3.jpg"/>
@@ -39,7 +41,6 @@ Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for tons of prev
 <img src="/assets/images/crystal-clear/pic7.jpg"/>
 <img src="/assets/images/crystal-clear/pic8.jpg"/>
 <img src="/assets/images/crystal-clear/pic9.jpg"/>
-<img src="/assets/images/crystal-clear/tsukuyomi 3l7bgtchkrt27_p0.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx1.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx3.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx4.jpg" title="image by Nyx"/>
@@ -48,4 +49,8 @@ Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) for tons of prev
 <img src="/assets/images/crystal-clear/nyx7.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/nyx8.jpg" title="image by Nyx"/>
 <img src="/assets/images/crystal-clear/tsukuyomi 3l7hf37v5kt2q_p0.jpg" title="image by Nyx"/>
+<img src="/assets/images/crystal-clear/Screenshot_2024-12-09_173647_processed3.jpg" title="image by E L Y N N Δ L V N S T 又"/>
+<img src="/assets/images/crystal-clear/Screenshot_2024-12-10_001652.jpg" title="image by E L Y N N Δ L V N S T 又"/>
+<img src="/assets/images/crystal-clear/Screenshot_2024-12-10_205952.jpg" title="image by E L Y N N Δ L V N S T 又"/>
+<img src="/assets/images/crystal-clear/Screenshot_2024-12-12_011047.jpg" title="image by E L Y N N Δ L V N S T 又"/>
 <img src="/assets/images/crystal-clear/nyx2.jpg" title="image by Nyx"/>
