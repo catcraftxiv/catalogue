@@ -20,5 +20,7 @@ Winter jacket with sweater underneath it
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I like to look at these c:
 
+Thank you so much for your support and merry christmas! <3
+
 <img src="/assets/images/winter-fairy-tail/fantasy_previewNY24_3.jpg"/>
 <img src="/assets/images/winter-fairy-tail/cover.jpg"/>
