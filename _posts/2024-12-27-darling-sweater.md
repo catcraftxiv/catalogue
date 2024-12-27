@@ -25,7 +25,8 @@ Happy holidays!!
 Thank you [Idis](https://x.com/idisxiv) for extra previews!
 
 <iframe src="https://catcraftxiv.github.io/assets/images/darling-sweater/preview.html" frameborder="0" allowfullscreen="true" style="width: 100%;aspect-ratio: 1/1;"></iframe>
-<p><iframe src="https://catcraftxiv.github.io/assets/images/darling-sweater/shorts/preview.html" frameborder="0" allowfullscreen="true" style="width: 100%;aspect-ratio: 1/1;"></iframe></p>
+Shorts
+<iframe src="https://catcraftxiv.github.io/assets/images/darling-sweater/shorts/preview.html" frameborder="0" allowfullscreen="true" style="width: 100%;aspect-ratio: 1/1;"></iframe>
 <img src="/assets/images/darling-sweater/ffxiv_dx11 2024-12-27 15-23-30 Maya Adorable Gameplay_edit.jpg"/>
 <img src="/assets/images/darling-sweater/ffxiv_dx11 2024-12-27 15-30-03 Maya Adorable Gameplay_edit.jpg"/>
 <img src="/assets/images/darling-sweater/ffxiv_dx11 2024-12-27 15-32-33 Maya Adorable Gameplay_edit.jpg"/>
