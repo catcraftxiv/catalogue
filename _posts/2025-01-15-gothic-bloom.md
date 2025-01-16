@@ -22,9 +22,12 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Have a great year ahead!!
 
+Thank you [Saki](https://x.com/PhotosmithSaki) for extra pic!
+
 <iframe src="https://catcraftxiv.github.io/assets/images/gothic-bloom/preview.html" frameborder="0" allowfullscreen="true" style="width: 100%;aspect-ratio: 1/1;"></iframe>
 <img src="/assets/images/gothic-bloom/ffxiv_dx11 2025-01-15 01-28-38 Maya Adorable Gameplay_edit.jpg"/>
 <img src="/assets/images/gothic-bloom/ffxiv_dx11 2025-01-15 01-30-42 Maya Adorable Gameplay_edit.jpg"/>
 <img src="/assets/images/gothic-bloom/ffxiv_dx11 2025-01-15 01-35-28 Maya Adorable Gameplay_edit.jpg"/>
 <img src="/assets/images/gothic-bloom/ffxiv_dx11 2025-01-15 01-36-54 Maya Adorable Gameplay_edit.jpg"/>
 <img src="/assets/images/gothic-bloom/ffxiv_dx11 2025-01-15 01-26-57 Maya Adorable Gameplay_edit.jpg"/>
+<img src="/assets/images/gothic-bloom/2025-01-15_21-13-57-804_Sakis_Night_Equalizer2.jpg" title="image by Saki/>
