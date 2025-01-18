@@ -12,9 +12,9 @@ Catcraft is consist of [pillow]({{ site.baseurl }}author/pillow/) and [Evie]({{ 
 
 **Every** of subscription rewards is custom made by us! :>
 
-*This website is made to preview paid mods in one place! To see free mods in one place, please see <a href="https://www.xivmodarchive.com/user/111283" target="_blank">XIV Mod Archive profile</a> :>*
-
 You can see [commission info](https://catcraftxiv.github.io/commission/) there!
+
+*This website is made to preview paid mods in one place! To see free mods in one place, please see <a href="https://www.xivmodarchive.com/user/111283" target="_blank">XIV Mod Archive profile</a> :>*
 
 <details>
   <summary>Links to our things</summary>
