@@ -33,6 +33,8 @@ I can accept payment through ko-fi/hipolink/boosty! Please, understand that ther
 
 You can write me at discord :> Add me **pillow39** or join our [discord server](https://discord.gg/yPbUXazxQ3) and and write me from there!
 
+Feel free to share your experience below if you want :>
+
 <script src="https://giscus.app/client.js"
         data-repo="catcraftxiv/catcraftxiv.github.io"
         data-repo-id="R_kgDOM7-w3w"
