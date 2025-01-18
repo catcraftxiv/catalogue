@@ -25,7 +25,7 @@
 
 - name: Bsky
   link: https://bsky.app/profile/catcraftxiv.bsky.social
-  frontpage: true
+  frontpage:
 
 - name: Twitter
   link: https://x.com/catcraftxiv
