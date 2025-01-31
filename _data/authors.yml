@@ -17,7 +17,7 @@ evie:
   picture: assets/images/evie.webp
   facebook: False
   twitter: False
-  cover: False
+  cover: assets/images/timeless-togs/cover.jpg
 
 # default authors
 
