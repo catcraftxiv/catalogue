@@ -4,7 +4,7 @@ current: post
 navigation: True
 title: Yuan Meixiang
 cover: assets/images/yuan-meixiang/cover.jpg
-date: 2024-04-29 10:00:00 +0300
+date: 2024-03-28 10:00:00 +0300
 tags: clothes subscription
 class: post-template
 subclass: 'post'
@@ -20,7 +20,7 @@ Long-sleeved silky short top with frills and bow
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-*Main picture by Nanami (@nanamiyumi at discord)*! Thank you very much <3
+Main picture by Nanami (@nanamiyumi at discord)! Thank you very much <3
 
 <img src="/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_14-59-52.jpg"/>
 <img src="/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-03-03.jpg"/>
