@@ -54,12 +54,12 @@
   profile: https://twitter.com/catcraftxiv/status/1788739364203245636
 
 - link: /web/assets/img/gallery/GNQBkAyXQAAlRK7-orig_c.jpg
-  name: Idis
+  name: idis
   isBigImage: 
   profile: https://twitter.com/idisxiv/status/1789057976558387428
 
 - link: /web/assets/img/gallery/GNa_lHsXUAAqPSj-orig_c.jpg
-  name: Idis
+  name: idis
   isBigImage: 
   profile: https://twitter.com/idisxiv/status/1789829849973977338
 
@@ -74,12 +74,12 @@
 #  profile: https://twitter.com/catcraftxiv/status/1791203799895245015
 
 - link: /web/assets/img/gallery/GNztktBXwAAJMRb-orig_c.jpg
-  name: Idis
+  name: idis
   isBigImage:
   profile: https://twitter.com/idisxiv/status/1791568689214464260
 
 - link: /web/assets/img/gallery/ffxiv-dx11-2024-05-16-18-22-15_c.jpg
-  name: Idis
+  name: idis
   isBigImage:
   profile: https://x.com/idisxiv
 
@@ -89,17 +89,17 @@
   profile: https://twitter.com/milkchanbread/status/1791820717857911121
 
 - link: /web/assets/img/gallery/image1_c.jpg
-  name: Idis
+  name: idis
   isBigImage: 
   profile: https://x.com/idisxiv
 
 - link: /web/assets/img/gallery/image_c.jpg
-  name: Idis
+  name: idis
   isBigImage:
   profile: https://x.com/idisxiv
 
 - link: /web/assets/img/gallery/ffxiv-dx11-2024-05-19-14-08-52_c.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv
 
@@ -164,7 +164,7 @@
   profile: https://x.com/catcraftxiv
 
 - link: /web/assets/img/gallery/GU4ScdOXAAIC-27.jpg
-  name: Idis
+  name: idis
   isBigImage:
   profile: https://x.com/idisxiv/status/1823415333975204172
 
@@ -184,12 +184,12 @@
   profile: https://www.instagram.com/scyllecirhe.ffxiv/
 
 - link: /web/assets/img/gallery/ffxiv_dx11_2024-08-27_20-26-28.jpg
-  name: Idis
+  name: idis
   isBigImage:
   profile: https://x.com/idisxiv/
 
 - link: /assets/images/edwardia/ffxiv_dx11_2024-08-27_23-19-41.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/
 
@@ -219,17 +219,17 @@
   profile: https://x.com/Ellieffxiv
 
 - link: /web/assets/img/gallery/idisgpose15edit1.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv
 
 - link: /web/assets/img/gallery/idisgpose16edit1.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/status/1838406531341234413
 
 - link: /web/assets/img/gallery/image (1).jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/
 
@@ -354,7 +354,7 @@
   profile: /
 
 - link: /assets/images/lovely-heart/ffxiv_dx11_2024-10-27_15-30-53.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/
 
@@ -444,17 +444,17 @@
   profile: /
 
 - link: /assets/images/darling-sweater/ffxiv_dx11_2024-12-27_11-37-57.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/
 
 - link: /assets/images/darling-sweater/ffxiv_dx11_2024-12-27_11-40-09.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/
 
 - link: /assets/images/darling-sweater/ffxiv_dx11_2024-12-27_11-41-26.jpg
-  name: Idis
+  name: idis
   isBigImage: true
   profile: https://x.com/idisxiv/
 
@@ -487,3 +487,48 @@
   name: Saki
   isBigImage: true
   profile: https://x.com/PhotosmithSaki
+
+- link: /assets/images/short-and-sweet/2025-02-27_20-01-00-080_Sakis_Night_Equalizer2.jpg
+  name: Saki
+  isBigImage: true
+  profile: https://x.com/PhotosmithSaki
+
+- link: /assets/images/short-and-sweet/cover.jpg
+  name: idis
+  isBigImage: 
+  profile: https://x.com/idisxiv
+
+- link: /assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_15-08-25.jpg
+  name: idis
+  isBigImage: 
+  profile: https://x.com/idisxiv
+
+- link: /assets/images/short-and-sweet/image (1).jpg
+  name: idis
+  isBigImage: 
+  profile: https://x.com/idisxiv
+
+- link: /assets/images/short-and-sweet/image.jpg
+  name: idis
+  isBigImage: true
+  profile: https://x.com/idisxiv
+
+- link: /assets/images/short-and-sweet/2025-02-27_02-06-09-243_TRUEREALISM_-_Base.jpg
+  name: haruhi
+  isBigImage: 
+  profile: https://x.com/haruhixiv
+
+- link: /assets/images/short-and-sweet/TRUEREALISM_-_DT.jpg
+  name: Lily Aria
+  isBigImage: 
+  profile: /
+
+- link: /assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_16-49-12EDITED.jpg
+  name: Azzie
+  isBigImage: 
+  profile: https://x.com/AzziXiko
+
+- link: /assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_14-49-11.jpg
+  name: Adra
+  isBigImage: 
+  profile: https://x.com/yourfav_vierelf
