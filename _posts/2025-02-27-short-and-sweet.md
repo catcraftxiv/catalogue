@@ -14,7 +14,7 @@ permalink: catalogue/:title
 
 Cute crop hoodie with shorts!
 
-### 6.99 USD OR GET WITH 10 USD TIER
+### 6.99 USD OR 10 USD TIER
 
 > Get the mod at [patreon] or [boosty]. Public after 27.05.2025!
 
