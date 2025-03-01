@@ -524,7 +524,7 @@
   profile: /
 
 - link: /assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_16-49-12EDITED.jpg
-  name: Azzie
+  name: Azzi
   isBigImage: 
   profile: https://x.com/AzziXiko
 
@@ -532,3 +532,18 @@
   name: Adra
   isBigImage: 
   profile: https://x.com/yourfav_vierelf
+
+- link: /assets/images/short-and-sweet/ffxiv_dx11_2025-02-27_15-01-24.jpg
+  name: idis
+  isBigImage: true
+  profile: https://x.com/idisxiv
+
+- link: /assets/images/midnight-mirage/cover.jpg
+  name: haruhi
+  isBigImage:
+  profile: https://x.com/haruhixiv
+
+- link: /assets/images/short-and-sweet/ffxiv_dx11_2025-02-28_16-27-53EDITED.jpg
+  name: Azzi
+  isBigImage: 
+  profile: https://x.com/AzziXiko
