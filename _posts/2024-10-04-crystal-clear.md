@@ -52,7 +52,6 @@ Thank you [Nyx](https://bsky.app/profile/tsukuyomi.bsky.social) and [E L Y N N �
 <img src="/assets/images/crystal-clear/Screenshot_2024-12-09_173647_processed3.jpg" title="image by E L Y N N Δ L V N S T 又"/>
 <img src="/assets/images/crystal-clear/Screenshot_2024-12-10_001652.jpg" title="image by E L Y N N Δ L V N S T 又"/>
 <img src="/assets/images/crystal-clear/Screenshot_2024-12-10_205952.jpg" title="image by E L Y N N Δ L V N S T 又"/>
-<img src="/assets/images/crystal-clear/Screenshot_2024-12-12_011047.jpg" title="image by E L Y N N Δ L V N S T 又"/>
 <img src="/assets/images/crystal-clear/Snow_dayt.jpg" title="image by E L Y N N Δ L V N S T 又"/>
 <img src="/assets/images/crystal-clear/Screenshot_2024-12-16_111718.jpg" title="image by E L Y N N Δ L V N S T 又"/>
 <img src="/assets/images/crystal-clear/Screenshot_2024-12-16_175132.jpg" title="image by E L Y N N Δ L V N S T 又"/>
