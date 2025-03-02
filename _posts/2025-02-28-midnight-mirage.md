@@ -21,7 +21,7 @@ Short tight dress with cutouts and crop sweater! :>
 You can use #catcraftxiv on [twitter] and [bluesky]!!
 
 - Replaces: Frontier Dress
-- Bodies: YAB & Rue S/M/L, WC/SC | Bibo+ M | CCBE+
+- Bodies: YAB & Rue S/M/L, WC/SC; Bibo+ M; CCBE+
 - Dyeable
 - 3 texture versions
 
