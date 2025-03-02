@@ -20,10 +20,10 @@ Cute crop hoodie with shorts!
 
 You can use #catcraftxiv on [twitter] and [bluesky]! I will be glad to see❤️
 
-✦ Replaces: Gryphonskin Breastguard, Gryphonskin Pantalettes
-✦ Bodies: YAB & Rue S/M/L, WC/SC | Bibo+ M | CCBE+ 
-✦ Dyeable
-✦ 3 material version
+- Replaces: Gryphonskin Breastguard, Gryphonskin Pantalettes
+- Bodies: YAB & Rue S/M/L, WC/SC | Bibo+ M | CCBE+ 
+- Dyeable
+- 3 material version
 
 Thank you [idis], Lily Aria, [Azzi], [Adra], [haruhi] and [Saki] for previews!! <3
 
