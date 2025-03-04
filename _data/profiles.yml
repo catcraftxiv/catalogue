@@ -7,6 +7,10 @@
   link: https://www.glamourdresser.com/author/catcraft
   frontpage:
 
+- name: Heliosphere
+  link: https://heliosphere.app/user/y1dtqqh33n5911wd92kkkne6g8
+  frontpage:
+
 - name: Patreon
   link: https://www.patreon.com/catcraftFFXIV
   frontpage: true
@@ -47,6 +51,6 @@
   link: https://catcraftxiv.github.io/web/rules
   frontpage:
 
-- name: Evie boosty
-  link: https://boosty.to/evilieda
-  frontpage:
+# - name: Evie boosty
+#   link: https://boosty.to/evilieda
+#   frontpage:
