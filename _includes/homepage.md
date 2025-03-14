@@ -1,4 +1,4 @@
-Hellow! 🌻 I'm making mods for FFXIV, mostly outfits for Bibo+ M and YAB & Rue+ S/M/L & WC/SC sizes! Join [discord] <3 If you need something you can write me from there, my DMs are open! (I'm **[pillow39]**)
+Hellow! 🌻 I'm making mods for FFXIV, mostly custom outfits for Bibo+ M and YAB & Rue+ S/M/L & WC/SC sizes! Join [discord] <3 If you need something you can write me from there, my DMs are open! (I'm **[pillow39]**)
 
 Every paid mod that is **listed on [Heliosphere]** is available through sub or for one-time purchase :3
 

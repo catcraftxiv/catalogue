@@ -38,10 +38,8 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
         <div class="post-feed">
-		    <section class="post-full-content">
-                <div class="kg-card-markdown" markdown="1">
-                    {% include homepage.md %}
-                </div>             
+		    <section class="post-full-content" markdown="1">
+                    {% include homepage.md %}          
             </section>
         </div>
     </div>
