@@ -3,7 +3,7 @@ layout: default
 current: home
 class: page-template
 navigation: True
-permalink: с/
+title: send help
 ---
 
 Catcraft is consist of [pillow]({{ site.baseurl }}author/pillow/) and [Evie]({{ site.baseurl }}author/evie/) ^-^ If you need something, please do write **pillow39** at discord :>
