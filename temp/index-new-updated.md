@@ -35,9 +35,13 @@ into the {body} of the default.hbs template -->
 </header>
 
 <!-- The main content area -->
-<main id="site-main" class="site-main outer" role="main">
     <div class="inner">
         <div class="post-feed">
-		    <section class="post-full-content" markdown="1">
-                <div class="kg-card-markdown" >
+		    <section class="post-full-content">
+                <div class="kg-card-markdown">
                     {% include homepage.md %}
+                </div>             
+            </section>
+        </div>
+    </div>
+
