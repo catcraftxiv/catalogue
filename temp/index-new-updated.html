@@ -30,6 +30,7 @@ into the {body} of the default.hbs template -->
 <style>
   .homepage-info {
 	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+	background-color: rgb(255, 255, 255);
 }
 </style>
 <!-- The main content area -->
@@ -39,7 +40,9 @@ into the {body} of the default.hbs template -->
         <div class="post-feed">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             <div class="homepage-info">
-			{% include homepage-info.md %}
+				<div class="kg-card-markdown">
+				{% include homepage-info.md %}
+				</div>
 			</div>
         </div>
     </div>
