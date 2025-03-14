@@ -39,8 +39,5 @@ into the {body} of the default.hbs template -->
     <div class="inner">
         <div class="post-feed">
 		    <section class="post-full-content" markdown="1">
-                    {% include homepage.md %}          
-            </section>
-        </div>
-    </div>
-</main>
+                <div class="kg-card-markdown" >
+                    {% include homepage.md %}
