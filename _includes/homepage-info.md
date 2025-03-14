@@ -1,3 +1,11 @@
+---
+layout: default
+current: home
+class: page-template
+navigation: True
+permalink: с/
+---
+
 Catcraft is consist of [pillow]({{ site.baseurl }}author/pillow/) and [Evie]({{ site.baseurl }}author/evie/) ^-^ If you need something, please do write **pillow39** at discord :>
 
 **Every** of subscription rewards is custom made by us! :>
