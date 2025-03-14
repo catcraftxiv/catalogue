@@ -1,15 +1,29 @@
-Mostly making custom stuff, but not only! Join [Discord]! <3
+Hellow! :> I'm making mods for FFXIV, mostly outfits for Bibo+ M and YAB & Rue+ S/M/L & WC/SC sizes! Join [discord] <3 If you need something you can write me from there, my DMs are open! (I'm **[pillow39]**)
 
-I'm releasing at least 2 mods for subscription rewards every month! Since February 2025, **every subscription reward include Rue+ and YAB S/M/L sizes with WC/SC leg sizes** (YAS or Yiggle not guaranteed). Posts that was made before that date include Bibo+ M size.
+Every paid mod that is **listed on Heliosphere** is available through sub or for one-time purchase :3
 
-My main profiles is [Heliosphere] and [Patreon]! 
+*You can find my old mods in the depths of my [patreon]*
 
-Because Patreon doesn't allow pictures in subscription rewards, please use Heliosphere to preview these!
-> Every paid mod that is **listed on Heliosphere** included in sub or available for one-time purchase
-
-
+[//]: # (List of links for embedding below)
+[//]: # (Social profiles:)
 
 [Discord]: https://discord.gg/yPbUXazxQ3
+[Twitter]: https://twitter.com/catcraftxiv
+[Bluesky]: https://bsky.app/profile/catcraftxiv.bsky.social
+[pillow39]: https://discord.com/users/606138858618224640
+
+[//]: # (Mod profiles:)
+
 [Heliosphere]: https://heliosphere.app/user/y1dtqqh33n5911wd92kkkne6g8
-[Patreon]: https://www.patreon.com/c/catcraftffxiv/posts
+[Patreon]: https://www.patreon.com/catcraftffxiv
 [XMA]: https://www.xivmodarchive.com/user/111283
+[TGD]: https://www.glamourdresser.com/author/catcraft
+[Boosty]: https://boosty.to/miaumori
+[Hipolink]: https://hipolink.net/pomigrein
+[Ko-fi]: https://ko-fi.com/catcraft
+
+[//]: # (Useful info:)
+
+[Website]: https://catcraftxiv.github.io
+[Mod Rules]: https://catcraftxiv.github.io/web/rules
+[Commission Info]: https://catcraftxiv.github.io/web/rules
