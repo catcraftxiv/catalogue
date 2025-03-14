@@ -39,8 +39,9 @@ into the {body} of the default.hbs template -->
     <div class="inner">
         <div class="post-feed">
 		    <section class="post-full-content">
-                <div class="kg-card-markdown">
+                <div class="kg-card-markdown" markdown="1">
                     {% include homepage.md %}
+					[send help](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html)
                 </div>             
             </section>
         </div>
