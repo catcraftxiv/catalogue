@@ -40,9 +40,13 @@ into the {body} of the default.hbs template -->
         <div class="post-feed">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             <div class="homepage-info">
-				<div class="kg-card-markdown">
-				{% include homepage-info.md %}
-				</div>
+				<article class="post-full">
+					<section class="post-full-content">
+						<div class="kg-card-markdown">
+							{% include homepage-info.md %}
+						</div>
+					</section>
+				</article>
 			</div>
         </div>
     </div>
