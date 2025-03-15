@@ -9,7 +9,7 @@ tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: pillow
-permalink: catalogue/:title
+permalink: :title
 ---
 
 Smexy turtle neck sweater with cute bottoms 

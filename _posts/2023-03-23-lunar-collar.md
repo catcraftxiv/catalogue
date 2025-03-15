@@ -9,7 +9,7 @@ tags: accessory subscription
 class: post-template
 subclass: 'post'
 author: evie
-permalink: catalogue/:title
+permalink: :title
 ---
 
 Leather collar with black lace and metal moons

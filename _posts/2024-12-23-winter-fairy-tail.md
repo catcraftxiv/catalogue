@@ -9,7 +9,7 @@ tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: evie
-permalink: catalogue/:title
+permalink: :title
 ---
 
 Winter jacket with sweater underneath it

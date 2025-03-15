@@ -9,7 +9,7 @@ tags: weapon subscription
 class: post-template
 subclass: 'post'
 author: evie
-permalink: catalogue/:title
+permalink: :title
 ---
 
 DRK weapon with glowing rune

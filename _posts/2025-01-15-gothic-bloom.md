@@ -9,7 +9,7 @@ tags: clothes subscription
 class: post-template
 subclass: 'post'
 author: pillow
-permalink: catalogue/:title
+permalink: :title
 ---
 
 Crop puffy sleeve shirt with metal accessories and roses with high waisted skirt

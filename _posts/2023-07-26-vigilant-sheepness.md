@@ -9,7 +9,7 @@ tags: accessory shop
 class: post-template
 subclass: 'post'
 author: pillow
-permalink: catalogue/:title
+permalink: :title
 ---
 
 Horns with glowy halo

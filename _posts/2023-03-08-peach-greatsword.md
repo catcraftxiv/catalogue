@@ -9,7 +9,7 @@ tags: weapon subscription
 class: post-template
 subclass: 'post'
 author: pillow
-permalink: catalogue/:title
+permalink: :title
 ---
 
 Cute wooden sword for DRK
