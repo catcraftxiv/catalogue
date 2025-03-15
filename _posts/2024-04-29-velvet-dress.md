@@ -22,6 +22,6 @@ Long-sleeved dress with corset
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-<img src="/assets/images/velvet-dress/ffxiv_dx11_2024-04-29_04-41-06.jpg"/>
-<img src="/assets/images/velvet-dress/ffxiv_dx11_2024-04-29_04-55-42.jpg"/>
-<img src="/assets/images/velvet-dress/cover.jpg" title="image by sunseeker"/>
+<img src="/catalogue/assets/images/velvet-dress/ffxiv_dx11_2024-04-29_04-41-06.jpg"/>
+<img src="/catalogue/assets/images/velvet-dress/ffxiv_dx11_2024-04-29_04-55-42.jpg"/>
+<img src="/catalogue/assets/images/velvet-dress/cover.jpg" title="image by sunseeker"/>

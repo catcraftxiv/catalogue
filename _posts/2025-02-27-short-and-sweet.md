@@ -27,16 +27,16 @@ You can use #catcraftxiv on [twitter] and [bluesky]! I will be glad to see❤️
 
 Thank you [idis], Lily Aria, [Azzi], [Adra], [haruhi] and [Saki] for previews!! <3
 
-<img src="/assets/images/short-and-sweet/2025-02-27_02-06-09-243_TRUEREALISM_-_Base.jpg" title="image by haruhi"/>
-<img src="/assets/images/short-and-sweet/TRUEREALISM_-_DT.jpg" title="image by Lily Aria"/>
-<img src="/assets/images/short-and-sweet/2025-02-27_20-01-00-080_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
-<img src="/assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_16-49-12EDITED.jpg" title="image by Azzie"/>
-<img src="/assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_14-49-11.jpg" title="image by Adra"/>
-<img src="/assets/images/short-and-sweet/image (1).jpg" title="image by idis"/>
-<img src="/assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_15-08-25.jpg" title="image by idis"/>
-<img src="/assets/images/short-and-sweet/image.jpg" title="image by idis"/>
-<img src="/assets/images/short-and-sweet/ffxiv_dx11_2025-02-27_15-01-24.jpg" title="image by idis"/>
-<img src="/assets/images/short-and-sweet/cover.jpg" title="image by idis"/>
+<img src="/catalogue/assets/images/short-and-sweet/2025-02-27_02-06-09-243_TRUEREALISM_-_Base.jpg" title="image by haruhi"/>
+<img src="/catalogue/assets/images/short-and-sweet/TRUEREALISM_-_DT.jpg" title="image by Lily Aria"/>
+<img src="/catalogue/assets/images/short-and-sweet/2025-02-27_20-01-00-080_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
+<img src="/catalogue/assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_16-49-12EDITED.jpg" title="image by Azzie"/>
+<img src="/catalogue/assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_14-49-11.jpg" title="image by Adra"/>
+<img src="/catalogue/assets/images/short-and-sweet/image (1).jpg" title="image by idis"/>
+<img src="/catalogue/assets/images/short-and-sweet/ffxiv_dx11_2025-02-26_15-08-25.jpg" title="image by idis"/>
+<img src="/catalogue/assets/images/short-and-sweet/image.jpg" title="image by idis"/>
+<img src="/catalogue/assets/images/short-and-sweet/ffxiv_dx11_2025-02-27_15-01-24.jpg" title="image by idis"/>
+<img src="/catalogue/assets/images/short-and-sweet/cover.jpg" title="image by idis"/>
 
 [twitter]: https://x.com/hashtag/catcraftxiv?src=hashtag_click
 [bluesky]: https://bsky.app/hashtag/catcraftxiv

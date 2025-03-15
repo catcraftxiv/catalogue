@@ -20,10 +20,10 @@ Folding fans weapon for DNC
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-<img src="/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-09-16.jpg"/>
-<img src="/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-33-31.jpg"/>
-<img src="/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-41-59.jpg"/>
-<img src="/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-42-25.jpg"/>
-<img src="/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-47-04.jpg"/>
-<img src="/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-57-59.jpg"/>
-<img src="/assets/images/red-sharpness/cover.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-09-16.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-33-31.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-41-59.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-42-25.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-47-04.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/ffxiv_dx11 2023-04-05 21-57-59.jpg"/>
+<img src="/catalogue/assets/images/red-sharpness/cover.jpg"/>

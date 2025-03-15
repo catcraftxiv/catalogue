@@ -22,7 +22,7 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you [Idis](https://x.com/idisxiv) and [Saki](https://x.com/PhotosmithSaki) for extra screenshots! <3
 
-<img src="/assets/images/lovely-heart/2024-10-31_17-52-23-573_Sakis_Night_Equalizer2_2.jpg" title="image by Saki"/>
-<img src="/assets/images/lovely-heart/ffxiv_dx11_2024-10-27_15-30-53.jpg" title="image by Idis"/>
-<img src="/assets/images/lovely-heart/ffxiv_dx11 2024-10-28 00-16-02 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/lovely-heart/cover.jpg"/>
+<img src="/catalogue/assets/images/lovely-heart/2024-10-31_17-52-23-573_Sakis_Night_Equalizer2_2.jpg" title="image by Saki"/>
+<img src="/catalogue/assets/images/lovely-heart/ffxiv_dx11_2024-10-27_15-30-53.jpg" title="image by Idis"/>
+<img src="/catalogue/assets/images/lovely-heart/ffxiv_dx11 2024-10-28 00-16-02 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/lovely-heart/cover.jpg"/>

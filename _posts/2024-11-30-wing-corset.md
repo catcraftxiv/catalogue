@@ -20,5 +20,5 @@ Gothic corset with little wings
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! I like to look at these c:
 
-<img src="/assets/images/wing-corset/ffxiv_dx11 2024-11-30 16-11-30.jpg"/>
-<img src="/assets/images/wing-corset/cover.jpg"/>
+<img src="/catalogue/assets/images/wing-corset/ffxiv_dx11 2024-11-30 16-11-30.jpg"/>
+<img src="/catalogue/assets/images/wing-corset/cover.jpg"/>

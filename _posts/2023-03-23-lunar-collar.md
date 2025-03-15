@@ -20,6 +20,6 @@ Leather collar with black lace and metal moons
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-<img src="/assets/images/lunar-collar/ffxiv_dx11 2023-03-30 17-36-27.jpg"/>
-<img src="/assets/images/lunar-collar/ffxiv_dx11 2023-03-30 16-53-05.jpg"/>
-<img src="/assets/images/lunar-collar/cover.jpg"/>
+<img src="/catalogue/assets/images/lunar-collar/ffxiv_dx11 2023-03-30 17-36-27.jpg"/>
+<img src="/catalogue/assets/images/lunar-collar/ffxiv_dx11 2023-03-30 16-53-05.jpg"/>
+<img src="/catalogue/assets/images/lunar-collar/cover.jpg"/>

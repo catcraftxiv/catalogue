@@ -22,18 +22,18 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you [Ellie](https://x.com/Ellieffxiv), [Idis](https://x.com/idisxiv) and [Saki](https://x.com/PhotosmithSaki) for more previews!
 
-<img src="/assets/images/sweetheart-sweater/48f2318ca04b4e81dfc0b46f7e6881a0ce59b148_s2_n3_y1.jpg" title="image by Idis"/>
-<img src="/assets/images/sweetheart-sweater/idisgpose16edit1.jpg" title="image by Idis"/>
-<img src="/assets/images/sweetheart-sweater/idisgpose15edit1.jpg" title="image by Idis"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11_2024-09-23_16-18-58.jpg" title="image by Ellie"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11_2024-09-23_15-56-51.jpg" title="image by Ellie"/>
-<img src="/assets/images/sweetheart-sweater/2024-09-24_07-46-19-308_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
-<img src="/assets/images/sweetheart-sweater/2024-09-24_07-26-21-793_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-40-58 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-42-36 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-44-16 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-44-37 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-47-06 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-48-47 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-52-04 Maya Adorable Gameplay.jpg"/>
-<img src="/assets/images/sweetheart-sweater/cover.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/48f2318ca04b4e81dfc0b46f7e6881a0ce59b148_s2_n3_y1.jpg" title="image by Idis"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/idisgpose16edit1.jpg" title="image by Idis"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/idisgpose15edit1.jpg" title="image by Idis"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11_2024-09-23_16-18-58.jpg" title="image by Ellie"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11_2024-09-23_15-56-51.jpg" title="image by Ellie"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/2024-09-24_07-46-19-308_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/2024-09-24_07-26-21-793_Sakis_Night_Equalizer2.jpg" title="image by Saki"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-40-58 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-42-36 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-44-16 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-44-37 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-47-06 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-48-47 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/ffxiv_dx11 2024-09-24 00-52-04 Maya Adorable Gameplay.jpg"/>
+<img src="/catalogue/assets/images/sweetheart-sweater/cover.jpg"/>

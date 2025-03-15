@@ -22,8 +22,8 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you Nanami(@nanamiyumi at discord) for preview pictures!
 
-<img src="/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-54-36.jpg" title="image by nanamiyumi"/>
-<img src="/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-56-50.jpg" title="image by nanamiyumi"/>
-<img src="/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-54-23.jpg" title="image by nanamiyumi"/>
-<img src="/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-54-15.jpg" title="image by nanamiyumi"/>
-<img src="/assets/images/lace-elegance/ffxiv_dx11 2025-02-13 23-11-45.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-54-36.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-56-50.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-54-23.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/lace-elegance/ffxiv_dx11 2025-02-16 10-54-15.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/lace-elegance/ffxiv_dx11 2025-02-13 23-11-45.jpg" title="image by nanamiyumi"/>

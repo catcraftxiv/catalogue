@@ -22,5 +22,5 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Thank you so much for your support and merry christmas! <3
 
-<img src="/assets/images/winter-fairy-tail/fantasy_previewNY24_3.jpg"/>
-<img src="/assets/images/winter-fairy-tail/cover.jpg"/>
+<img src="/catalogue/assets/images/winter-fairy-tail/fantasy_previewNY24_3.jpg"/>
+<img src="/catalogue/assets/images/winter-fairy-tail/cover.jpg"/>

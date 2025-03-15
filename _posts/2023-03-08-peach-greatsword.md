@@ -20,11 +20,11 @@ Cute wooden sword for DRK
 
 Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/hashtag/catcraftxiv?src=hashtag_click) and [bluesky](https://bsky.app/hashtag/catcraftxiv)! It feels very nice to see <3
 
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_15-00-50.jpg"/>
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_15-42-12.jpg"/>
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_15-06-31.jpg"/>
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-32-06.jpg"/>
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-32-20.jpg"/>
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-33-00.jpg"/>
-<img src="/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-33-15.jpg"/>
-<img src="/assets/images/peach-greatsword/cover.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_15-00-50.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_15-42-12.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_15-06-31.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-32-06.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-32-20.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-33-00.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/ffxiv_dx11_2023-03-03_16-33-15.jpg"/>
+<img src="/catalogue/assets/images/peach-greatsword/cover.jpg"/>

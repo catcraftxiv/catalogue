@@ -31,12 +31,12 @@ Thank you [Idis](https://x.com/idisxiv) and [Zammy](https://x.com/Emblem13235) f
 
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/ffxiv-dx11-2024-05-16-18-22-15_c.jpg" title="image by Idis"/>
 <img src="https://catcraftxiv.github.io/web/assets/img/gallery/GU4ScdOXAAIC-27.jpg" title="image by Idis"/>
-<img src="/assets/images/tight-and-short/cover.jpg" title="image by Idis"/>
-<img src="/assets/images/tight-and-short/pic1.jpg"/>
-<img src="/assets/images/tight-and-short/pic2.jpg"/>
-<img src="/assets/images/tight-and-short/pic3.jpg"/>
-<img src="/assets/images/tight-and-short/pic4.jpg"/>
-<img src="/assets/images/tight-and-short/pic5.jpg"/>
-<img src="/assets/images/tight-and-short/Zamira561.jpg" title="image by Zammy"/>
-<img src="/assets/images/tight-and-short/pic6.jpg"/>
-<img src="/assets/images/tight-and-short/pic7.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/cover.jpg" title="image by Idis"/>
+<img src="/catalogue/assets/images/tight-and-short/pic1.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/pic2.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/pic3.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/pic4.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/pic5.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/Zamira561.jpg" title="image by Zammy"/>
+<img src="/catalogue/assets/images/tight-and-short/pic6.jpg"/>
+<img src="/catalogue/assets/images/tight-and-short/pic7.jpg"/>

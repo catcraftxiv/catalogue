@@ -22,9 +22,9 @@ Feel free to post your screenshots with #catcraftxiv on [twitter](https://x.com/
 
 Main picture by Nanami (@nanamiyumi at discord)! Thank you very much <3
 
-<img src="/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_14-59-52.jpg"/>
-<img src="/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-03-03.jpg"/>
-<img src="/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-12-29.jpg"/>
-<img src="/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-13-17.jpg"/>
-<img src="/assets/images/yuan-meixiang/ffxiv_dx11 2025-02-09 11-14-51.jpg" title="image by nanamiyumi"/>
-<img src="/assets/images/yuan-meixiang/cover.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_14-59-52.jpg"/>
+<img src="/catalogue/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-03-03.jpg"/>
+<img src="/catalogue/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-12-29.jpg"/>
+<img src="/catalogue/assets/images/yuan-meixiang/ffxiv_dx11_2024-03-28_15-13-17.jpg"/>
+<img src="/catalogue/assets/images/yuan-meixiang/ffxiv_dx11 2025-02-09 11-14-51.jpg" title="image by nanamiyumi"/>
+<img src="/catalogue/assets/images/yuan-meixiang/cover.jpg" title="image by nanamiyumi"/>
