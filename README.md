@@ -1,3 +1,5 @@
+was setted up to work as catcraftxiv.github.io or /catalogue/
+
 ## Jasper2
 
 [![Build Status](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml)
